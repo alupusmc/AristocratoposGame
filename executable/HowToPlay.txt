@@ -1,0 +1,9 @@
+Cambio de arma: Q E
+Golpe derecho: D
+Golpe izquierdo: A
+Pausa/Continuar: Esc
+Desplazamiento: Flechas < ^ v >
+Extinguidor:  Stun en forma de cono, daño mínimo
+Cadena dorada: Daño masivo en una línea de largo alcance, skillshot difícil de acertar
+Cadena normal: Daño estándar, velocidad rápida y de corto alcance
+Mouse: Interacción con los menús
